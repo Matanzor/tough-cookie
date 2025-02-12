@@ -67,12 +67,13 @@
   "devDependencies": {
     "async": "^1.4.2",
     "genversion": "^2.1.0",
-    "nyc": "^11.6.0",
+    "nyc": "^17.1.0",
     "string.prototype.repeat": "^0.2.0",
     "vows": "^0.8.2"
   },
   "dependencies": {
     "psl": "^1.1.28",
-    "punycode": "^2.1.1"
+    "punycode": "^2.1.1",
+    "tough-cookie": "file:tough-cookie-2.5.0.tgz"
   }
 }
